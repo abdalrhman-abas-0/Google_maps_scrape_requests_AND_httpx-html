@@ -52,3 +52,4 @@ cd google-maps-scraper
 ├── storage_solution.py             # Saves the scraped data
 └── outputs/                        # Directory for saving scraped CSV files
 ```
+> Please note that this project is posted mainly for demonstration purposes and the script does not work anymore as Google has updated their APIs multiple times. 
